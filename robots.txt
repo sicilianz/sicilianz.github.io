@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://sicilianz.github.com/sitemap.xml
